@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="pad_ic">15dp</dimen>
+    <dimen name="but_marg">35dp</dimen>
+    <dimen name="but_text">16sp</dimen>
+    <dimen name="but_marg_top">20dp</dimen>
+    <dimen name="width">100dp</dimen>
+    <dimen name="txt_size">17sp</dimen>
+    <dimen name="size_user_mail">15sp</dimen>
+</resources>

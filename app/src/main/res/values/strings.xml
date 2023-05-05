@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Profile</string>
+    <string name="user_name">Yurichik Hrenader</string>
+    <string name="user_mail">krendel.krendel25@gmail.com</string>
+    <string name="txt_btn_backto">Back to Main page</string>
+    <string name="txt_btn_finger">Fingerprint Settings</string>
+    <string name="txt_btn_notification">Notification</string>
+    <string name="txt_btn_information">Personal Informations</string>
+    <string name="txt_btn_settings">Account Settings</string>
+    <string name="txt_btn_reviews">My Reviews</string>
+</resources>
